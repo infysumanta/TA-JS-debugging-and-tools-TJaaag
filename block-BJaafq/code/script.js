@@ -1,4 +1,4 @@
-/*
+/** 
 Testing framework- if a test fails by using the try catch method the remaining tests are not carried out. Thus, to overcome of this issue a testing framework (i.e., is a testing function) can be used.
 Assertion- it is something that is used to compare the values (which might be string, number, etc.).
 */
